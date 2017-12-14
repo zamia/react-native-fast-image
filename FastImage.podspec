@@ -19,5 +19,5 @@ Pod::Spec.new do |s|
   s.dependency 'SDWebImage/WebP'
 
   s.source_files = 'ios/FastImage/*.{h,m}'
-
+  s.dependency 'SDWebImage/GIF', '4.2.2'
 end
