@@ -1,6 +1,6 @@
 {
   "name": "react-native-fast-image-fishtrip",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description":
     "a fork of react-native-fast-image and add some config for ios project",
   "main": "FastImage.js",
